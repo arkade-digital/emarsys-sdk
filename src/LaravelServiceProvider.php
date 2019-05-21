@@ -1,6 +1,6 @@
 <?php
 
-namespace Arkade\Bronto;
+namespace Arkade\Emarsys;
 
 use Illuminate\Support\ServiceProvider;
 
